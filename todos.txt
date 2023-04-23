@@ -1,0 +1,12 @@
+At 9:00 AM, Take A Shower
+Enhance Program again to check for dups.
+Enhanced Program again to check for dups.
+Enhanced Todo add to show updated todos list when Item is added
+Finish Day 5 Of Python In 50 Days
+Verified that Edit in GUI app works!
+Verify that Edit in GUI app works!
+Do we get duplicates?
+Hopefully, not!
+for real?
+Hook up this input to "todos" list.
+Verify that this works
